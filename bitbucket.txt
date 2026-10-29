@@ -1,0 +1,3 @@
+https://bitbucket.org/cambium-applicable-innovation/kipi-desktop/src/dev/
+
+uuid: 8d422242-9faf-460c-b960-b50538e14f34
